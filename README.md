@@ -1,1 +1,1 @@
-# My own take on Yelp!
+# Our own take on Yelp!
